@@ -1,0 +1,9 @@
+---
+title: "Assignment#10A"
+format: html
+editor: visual
+---
+
+# Approach
+
+The approach for this assignment Is to obtain the primary code and insert it into the QMD File. Determine a different text corpus and insert a lexicon and understand what a lexicon is. I don't fully understand what is being asked for a sentiment lexicon.
